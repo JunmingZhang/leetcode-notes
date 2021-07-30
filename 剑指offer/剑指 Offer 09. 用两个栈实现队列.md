@@ -54,3 +54,8 @@ class CQueue:
 # obj.appendTail(value)
 # param_2 = obj.deleteHead()
 ```
+
+Space complexity: O(n)
+Worst time complexity: O(n)
+Best time complexity: O(1)
+Avg time complexity: O(1)
