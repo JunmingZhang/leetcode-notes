@@ -55,7 +55,7 @@ class CQueue:
 # param_2 = obj.deleteHead()
 ```
 
-Space complexity: O(n)
-Worst time complexity: O(n)
-Best time complexity: O(1)
-Avg time complexity: O(1)
+Space complexity: O(n)<br/>
+Worst time complexity: O(n)<br/>
+Best time complexity: O(1)<br/>
+Avg time complexity: O(1)<br/>
